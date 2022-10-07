@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    float: left;
+    padding-left: 450;
+    justify-items: center;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 60px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+li{
+    margin-right: 62px;
+    border-style: none;
+    background-color: orangered;
+    padding: 10px;
+    border-radius: 8px;
+    border-width: 2px;
+    color: antiquewhite;
+    
+}
+
+.vid{
+    width: 300px;
+}
+.rid{
+    background-color: azure;
+    color: rgb(38, 124, 74);
+}
